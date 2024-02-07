@@ -1,0 +1,1 @@
+Escreva um codigo em Go utilizando todo o conhecimento adquirido até o momento! E nesse codigo você precisará, baseado em nossas aulas de concorrência, utilizar canais e goroutine para que o seu programa exiba, em alternância, as palvaras ping e pong
